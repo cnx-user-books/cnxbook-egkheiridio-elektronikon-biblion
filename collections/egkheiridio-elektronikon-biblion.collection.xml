@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11138</md:content-id>  <md:title>Εγχειρίδιο Ηλεκτρονικών Βιβλίων</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>1a47da6d-a13b-4250-867e-9e811db66b69</md:uuid>
-<md:slug>egkheiridio-elektronikon-biblion</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Κεφάλαιο 1</md:title>                                <col:content>                    <col:module document="m32937"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Antigoni Vilaeti">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11138</md:content-id>
+    <md:title>&#x395;&#x3B3;&#x3C7;&#x3B5;&#x3B9;&#x3C1;&#x3AF;&#x3B4;&#x3B9;&#x3BF; &#x397;&#x3BB;&#x3B5;&#x3BA;&#x3C4;&#x3C1;&#x3BF;&#x3BD;&#x3B9;&#x3BA;&#x3CE;&#x3BD; &#x392;&#x3B9;&#x3B2;&#x3BB;&#x3AF;&#x3C9;&#x3BD;</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1a47da6d-a13b-4250-867e-9e811db66b69</md:uuid>
+    <md:slug>egkheiridio-elektronikon-biblion</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>&#x39A;&#x3B5;&#x3C6;&#x3AC;&#x3BB;&#x3B1;&#x3B9;&#x3BF; 1</md:title>
+      <col:content>
+        <col:module document="m32937"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
